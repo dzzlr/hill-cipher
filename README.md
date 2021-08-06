@@ -10,3 +10,5 @@ Hill Cipher diciptakan oleh Lester S. Hill pada tahun 1929 [2]. Teknik kriptogra
 Hill Cipher yang merupakan polyalphabetic cipher dapat dikategorikan sebagai block cipher [2] karena teks yang akan diproses akan dibagi menjadi blokblok dengan ukuran tertentu. Setiap karakter dalam satu blok akan saling mempengaruhi karakter lainnya dalam proses enkripsi dan dekripsinya, sehingga karakter yang sama tidak dipetakan menjadi karakter yang sama pula.
 
 Hill Cipher termasuk kepada algoritma kriptografi klasik yang sangat sulit dipecahkan oleh kriptanalis apabila dilakukan hanya dengan mengetahui berkas ciphertext saja. Namun, teknik ini dapat dipecahkan dengan cukup mudah apabila kriptanalis memiliki berkas ciphertext dan potongan berkas plaintext. Teknik kriptanalisis ini disebut known-plaintext attack [1].
+
+Source: https://muamalkhoerudin.wordpress.com/2015/03/22/algoritma-hill-cipher-sandi-hill/
